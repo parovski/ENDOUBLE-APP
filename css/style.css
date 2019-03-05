@@ -64,6 +64,11 @@ body{
 	color: #129CF3;
 }
 
+.navbar-default .navbar-toggle{
+	float: left;
+    margin-left: 3%;
+    margin-right: 30%;
+}
 
 .header {
 	margin: -20px;
