@@ -4,7 +4,7 @@
 	<title>This web application was developed with HTML5, CSS3, JavaScript, jQuery, Bootstrap, PHP, MySql, Photoshop </title>
 
 	<meta charset="utf-8">
-	<met name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
 
 
 	<link href="https://fonts.googleapis.com/css?family=Raleway:300,300i,400,400i,600,600i,700,700i,800" rel="stylesheet">
