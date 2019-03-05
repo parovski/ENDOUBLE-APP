@@ -1,0 +1,44 @@
+.navbar-default {
+      background: #444 !important;
+    }
+
+
+   
+ .header{
+      background-image: none !important;
+    }
+
+ .thumbnailClass{
+	text-align: center !important;
+	}
+
+
+.thumbnailClass a:hover, a:visited, a:link, a:active
+{
+    text-decoration: none;
+}
+
+
+tr:nth-child(even) {
+	background-color: #f2f2f2;
+}
+
+#apply h3{
+
+	 text-align: center;
+	 color:grey !important;
+
+}
+
+	.content p{
+		color:black;
+		text-transform: uppercase;
+		text-align:center;
+		font-size:1.5em;
+		font-weight: bold;
+
+	}
+
+	.content{
+		margin-top:150px;
+	}
