@@ -16,7 +16,9 @@ body{
 
 
 
-
+#header-text{
+    	padding: 0px 40px;
+}
 
 .navbar-default{
 	background: transparent ;
