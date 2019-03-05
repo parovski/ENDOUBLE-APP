@@ -7,7 +7,7 @@
 			
 			<div class="container">
 			<div class="row">
-				<div class="col-md-8">
+				<div class="col-md-8" id="header-text">
 					<div class="header-text">
 						<h1> CREATE YOUR FUTURE</h1>
                         <p> the best way to find yourself is to lose yourself in the service of others!</p>
